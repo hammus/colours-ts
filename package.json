@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/hammus/colours-ts/issues"
   },
-  "homepage": "https://github.com/hammus/colours-ts#readme"
+  "homepage": "https://github.com/hammus/colours-ts#readme",
+  "dependencies": {
+    "typescript": "^2.9.2"
+  }
 }
